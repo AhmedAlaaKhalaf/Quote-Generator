@@ -1,0 +1,20 @@
+body {
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    
+}
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.container h1{
+    font-family: "Pacifico", sans-serif;
+}
+.container p {
+    font-family: 'Times New Roman', Times, serif, serif;
+}
